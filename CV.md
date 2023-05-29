@@ -15,9 +15,9 @@
 ### Deutsche-Boerse (2014-07 - Present)
 **Position:** Senior Software Developer
 
-- Responsible for the architecture and implementation of XBID solution.
+- Responsible for the architecture and implementation of XBID solution. [What XBID is](https://www.entsoe.eu/news/2018/06/14/european-cross-border-intraday-xbid-solution-and-10-local-implementation-projects-successful-go-live/)
 - Worked in Scrum teams, collaborating closely with cross-functional team members to deliver high-quality software.
-- Utilized technologies: Java17, Kotlin, Spring-boot, Spring, ReactJS, JavaFX, LMAX Disruptor, RabbitMQ, Hibernate, Maven, Gradle.
+- Utilized technologies: Java17, Kotlin, Spring-boot, Spring, ReactJS, REST, JavaFX, LMAX Disruptor, RabbitMQ, Hibernate, Maven, Gradle.
 
 ### Roche Poland sp. z o.o. (2012-02 - 2014-07)
 **Position:** Senior Software Developer
