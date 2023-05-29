@@ -17,12 +17,12 @@
 
 - Responsible for the architecture and implementation of XBID solution. [What XBID is](https://www.entsoe.eu/news/2018/06/14/european-cross-border-intraday-xbid-solution-and-10-local-implementation-projects-successful-go-live/)
 - Worked in Scrum teams, collaborating closely with cross-functional team members to deliver high-quality software.
-- Utilized technologies: Java17, Kotlin, Spring-boot, Spring, ReactJS, REST, JavaFX, LMAX Disruptor, RabbitMQ, Hibernate, Maven, Gradle.
+- Utilized technologies: Java17, Kotlin, Spring-boot, Spring, ReactJS, REST APIs, JavaFX, LMAX Disruptor, RabbitMQ, Hibernate, Maven, Gradle, Flyway, Mockito, Tescontainers, QueryDSL.
 
 ### Roche Poland sp. z o.o. (2012-02 - 2014-07)
 **Position:** Senior Software Developer
 
-- Developed software solutions using JavaEE, JavaScript, REST, SpringMVC, ExtJS, Struts 2, Hibernate, JBoss, Jetty, Maven, Oracle, Mockito.
+- Developed software solutions using JavaEE, JavaScript, REST APIs, SpringMVC, ExtJS, Struts 2, Hibernate, JBoss, Jetty, Maven, Oracle, Mockito.
 
 ### Pentegy S.A. (2008-10 - 2012-10)
 **Position:** Team Leader / Senior Java Developer
